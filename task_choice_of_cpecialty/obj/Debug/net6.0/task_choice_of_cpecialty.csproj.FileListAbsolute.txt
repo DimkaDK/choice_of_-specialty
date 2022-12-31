@@ -1,0 +1,15 @@
+E:\обучение\C#\choice_of_-specialty\task_choice_of_cpecialty\bin\Debug\net6.0\task_choice_of_cpecialty.exe
+E:\обучение\C#\choice_of_-specialty\task_choice_of_cpecialty\bin\Debug\net6.0\task_choice_of_cpecialty.deps.json
+E:\обучение\C#\choice_of_-specialty\task_choice_of_cpecialty\bin\Debug\net6.0\task_choice_of_cpecialty.runtimeconfig.json
+E:\обучение\C#\choice_of_-specialty\task_choice_of_cpecialty\bin\Debug\net6.0\task_choice_of_cpecialty.dll
+E:\обучение\C#\choice_of_-specialty\task_choice_of_cpecialty\bin\Debug\net6.0\task_choice_of_cpecialty.pdb
+E:\обучение\C#\choice_of_-specialty\task_choice_of_cpecialty\obj\Debug\net6.0\task_choice_of_cpecialty.csproj.AssemblyReference.cache
+E:\обучение\C#\choice_of_-specialty\task_choice_of_cpecialty\obj\Debug\net6.0\task_choice_of_cpecialty.GeneratedMSBuildEditorConfig.editorconfig
+E:\обучение\C#\choice_of_-specialty\task_choice_of_cpecialty\obj\Debug\net6.0\task_choice_of_cpecialty.AssemblyInfoInputs.cache
+E:\обучение\C#\choice_of_-specialty\task_choice_of_cpecialty\obj\Debug\net6.0\task_choice_of_cpecialty.AssemblyInfo.cs
+E:\обучение\C#\choice_of_-specialty\task_choice_of_cpecialty\obj\Debug\net6.0\task_choice_of_cpecialty.csproj.CoreCompileInputs.cache
+E:\обучение\C#\choice_of_-specialty\task_choice_of_cpecialty\obj\Debug\net6.0\task_choice_of_cpecialty.dll
+E:\обучение\C#\choice_of_-specialty\task_choice_of_cpecialty\obj\Debug\net6.0\refint\task_choice_of_cpecialty.dll
+E:\обучение\C#\choice_of_-specialty\task_choice_of_cpecialty\obj\Debug\net6.0\task_choice_of_cpecialty.pdb
+E:\обучение\C#\choice_of_-specialty\task_choice_of_cpecialty\obj\Debug\net6.0\task_choice_of_cpecialty.genruntimeconfig.cache
+E:\обучение\C#\choice_of_-specialty\task_choice_of_cpecialty\obj\Debug\net6.0\ref\task_choice_of_cpecialty.dll
